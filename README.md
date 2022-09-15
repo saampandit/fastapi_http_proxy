@@ -22,7 +22,11 @@ make all
 ## APIs available
 
 - [Swagger API](http://127.0.0.1:8000/docs)
+	http://127.0.0.1:8000/docs
 - [User API](http://127.0.0.1:8000/user)
+	http://127.0.0.1:8000/user
 - [Default Page](http://127.0.0.1:8000/)
+	http://127.0.0.1:8000/
 - [App Status](http://127.0.0.1:8000/status)
+	http://127.0.0.1:8000/status
 
